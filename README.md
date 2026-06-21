@@ -18,6 +18,15 @@ A Streamlit-based fitness assistant that creates personalized workout plans from
 - Live workout timers and progress bars
 - Optional text-to-speech workout instructions
 - Simple Streamlit interface
+## Live Demo 
+
+
+https://github.com/user-attachments/assets/6a577356-c82f-4124-a5bf-a84207c9efe7
+
+
+
+
+
 
 ## Demo Workflow
 
